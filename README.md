@@ -18,8 +18,11 @@ Developed knowledge in time series forecasting techniques within Power BI.
 Gained insights into consumer preferences for payment methods, product categories, and delivery options.
 Dashboard Screenshots
 Super Store Sales Dashboard
+![image](https://github.com/user-attachments/assets/2bdbda44-cccc-46e8-901d-284738e823fa)
+
 
 15-Day Sales Forecast
+![image](https://github.com/user-attachments/assets/164f0503-4b62-4ad1-a1d9-090c6ec7caf2)
 
 Conclusion
 The Super Store Sales Dashboard provides a comprehensive view of historical sales performance and a 15-day forecast. It serves as a valuable tool for business leaders to make informed decisions on inventory management, sales strategies, and operational efficiency.
